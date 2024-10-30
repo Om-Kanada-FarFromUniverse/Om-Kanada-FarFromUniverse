@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Om-Kanada-FarFromUniverse
-- 👀 I’m interested in Sports, Coding, Speaker, Logic Development.
-- 🌱 I’m currently learning 'C' Language right now
-- 💞️ I’m looking to collaborate on whatever the offer is offered
-- 📫 How to reach me email: omkanada20@gmail.com
+- 👋 Hello World1! I’m @Om-Kanada-FarFromUniverse
+- 👀 Interests are in Sports, Coding, Speaking/Pitching, Logic Development, and whatever one can teach me.
+- 🌱 Currently learning 'C' Language at my university.
+- 💞️ Collaboration open on whatever the offer is offered. 
+- 📫 email here: omkanada20@gmail.com
 - 😄 Pronouns: Omiii
-- ⚡ Fun fact: I over share 😮‍💨
+- ⚡ Fun fact: Learning (Trying at least)
 
 <!---
 Om-Kanada-FarFromUniverse/Om-Kanada-FarFromUniverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
