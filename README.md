@@ -1,4 +1,4 @@
-- 👋 Hello World1! I’m @Om-Kanada-FarFromUniverse
+- 👋 Hello World! I’m @Om-Kanada-FarFromUniverse
 - 👀 Interests are in Sports, Coding, Speaking/Pitching, Logic Development, and whatever one can teach me.
 - 🌱 Currently learning 'C' Language at my university.
 - 💞️ Collaboration open on whatever the offer is offered. 
